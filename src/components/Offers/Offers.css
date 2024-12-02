@@ -1,10 +1,10 @@
 .offers {
-    width: 40%;
-    height: 15vh;
+    width: 65%;
+    height: 65vh;
     display: flex;
     margin: auto;
     padding: 0px 140px;
-   
+    margin-top: 140px;
     background: linear-gradient(violet, white);
 }
 
@@ -76,7 +76,7 @@
 @media (max-width: 768px) {
     .offers {
         width: 90%;
-        height: 120vh;
+        height: 80vh;
         padding: 0 50px;
     }
 

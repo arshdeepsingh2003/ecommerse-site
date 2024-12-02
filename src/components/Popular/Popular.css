@@ -48,7 +48,7 @@
 
 @media (max-width: 480px) {
     .popular {
-        margin-top: 2%;
+        height: auto;
     }
 
     .popular h1 {
